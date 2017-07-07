@@ -1,6 +1,7 @@
 <?php
 //----------------------------------------------------------------- Tracking ---------------------------------------------
 function tracking(){
+//Using Child Theme to hold my js files
 wp_register_script( 'perfect-audience', get_stylesheet_directory_uri() . '/js/pa.js', array( 'jquery' ), null, true );
 
 $wNumber = $wTotal = '';
