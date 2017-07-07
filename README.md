@@ -9,4 +9,4 @@ Setup Revenue and Order ID tracking using Perfect Audience and WooCommerce.
 4. YOU'RE DONE!!
 
 
-Note: I have added an additional file with other ways to grab your order id if you are not using permalinks.
+Note: I have added an additional file woocommerce_order_ID.php with other ways to grab your order id.
